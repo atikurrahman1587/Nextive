@@ -58,10 +58,10 @@ defineProps({
                                             <td class="text-sm text-gray-900 font-light px-6 py-4 whitespace-nowrap border-r">
                                                 {{ product.product_name }}
                                             </td>
-                                            <td class="text-sm text-gray-900 font-light px-6 py-4 whitespace-nowrap">
+                                            <td class="text-sm text-gray-900 font-light px-6 py-4 whitespace-nowrap border-r">
                                                 {{ product.price }} TK
                                             </td>
-                                            <td class="text-sm text-gray-900 font-light px-6 py-4 whitespace-nowrap">
+                                            <td class="text-sm text-gray-900 font-light px-6 py-4 whitespace-nowrap border-r">
                                                 {{ product.qty }}
                                             </td>
                                             <td class="text-sm text-gray-900 font-light px-6 py-4 whitespace-nowrap">
